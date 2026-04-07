@@ -1,7 +1,11 @@
 aid: calpine
-url: https://raw.githubusercontent.com/api-evangelist/calpine/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/calpine/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.calpine.com
+description: >-
+  Calpine Corporation is America’s premier privately held competitive power company
+  committed to fulfilling America’s power needs today – and tomorrow.
