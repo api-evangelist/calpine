@@ -28,6 +28,8 @@ description: >-
   publish a public developer API program.
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/calpine-domain-security.yml
   - type: Website
     url: https://www.calpine.com
   - type: Wikipedia
@@ -38,6 +40,8 @@ common:
     url: https://www.constellationenergy.com/
   - type: LinkedIn
     url: https://www.linkedin.com/company/calpine
+  - url: https://www.calpine.com/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
