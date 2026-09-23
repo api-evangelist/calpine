@@ -1,7 +1,9 @@
 ---
 title: Calpine Announces Upcoming Leadership Changes, Next CEO
 url: https://www.calpine.com/calpine-announces-upcoming-leadership-changes-next-ceo/
-date: '2024-02-27'
+published: ''
+date_basis: harvested
+harvested: '2024-02-27'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

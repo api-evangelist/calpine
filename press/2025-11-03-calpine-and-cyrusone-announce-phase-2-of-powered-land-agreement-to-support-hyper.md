@@ -2,7 +2,9 @@
 title: Calpine and CyrusOne Announce Phase 2 of Powered Land Agreement to Support
   Hyperscale Data Center at Thad Hill Energy Center in Texas
 url: https://www.calpine.com/calpine-and-cyrusone-announce-phase-2-of-powered-land-agreement-to-support-hyperscale-data-center-at-thad-hill-energy-center-in-texas/
-date: '2025-11-03'
+published: ''
+date_basis: harvested
+harvested: '2025-11-03'
 author: Lindsey Mikeska
 feed_url: http://www.calpine.com/news/feed
 ---

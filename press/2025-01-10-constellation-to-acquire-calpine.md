@@ -1,7 +1,9 @@
 ---
 title: Constellation to Acquire Calpine
 url: https://www.calpine.com/constellation-to-acquire-calpine/
-date: '2025-01-10'
+published: ''
+date_basis: harvested
+harvested: '2025-01-10'
 author: Lindsey Mikeska
 feed_url: http://www.calpine.com/news/feed
 ---

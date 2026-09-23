@@ -1,7 +1,9 @@
 ---
 title: Calpine Accelerates PJM Development Program
 url: https://www.calpine.com/calpine-accelerates-pjm-development-program/
-date: '2024-08-22'
+published: ''
+date_basis: harvested
+harvested: '2024-08-22'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

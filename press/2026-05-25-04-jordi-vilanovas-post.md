@@ -1,7 +1,9 @@
 ---
 title: Jordi Vilanova's Post
 url: https://www.linkedin.com/posts/jvilanova_constellation-energy-to-buy-calpine-in-blockbuster-activity-7283555869403836416-pScP
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Calpine" press release artificial intelligence'
 position: 4
 source: serpapi-google

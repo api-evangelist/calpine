@@ -1,7 +1,9 @@
 ---
 title: Andrew Novotny Takes the Helm as Calpine’s New CEO
 url: https://www.calpine.com/andrew-novotny-takes-the-helm-as-calpines-new-ceo/
-date: '2024-10-01'
+published: ''
+date_basis: harvested
+harvested: '2024-10-01'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

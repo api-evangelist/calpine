@@ -2,7 +2,9 @@
 title: Calpine and CyrusOne Announce Thad Hill Energy Center Powered Land to Support
   Hyperscale Data Center Development in Texas
 url: https://www.calpine.com/calpine-and-cyrusone-announce-thad-hill-energy-center-powered-land-to-support-hyperscale-data-center-development-in-texas/
-date: '2025-07-30'
+published: ''
+date_basis: harvested
+harvested: '2025-07-30'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

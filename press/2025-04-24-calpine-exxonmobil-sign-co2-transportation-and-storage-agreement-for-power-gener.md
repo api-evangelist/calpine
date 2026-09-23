@@ -2,7 +2,9 @@
 title: Calpine, ExxonMobil Sign CO2 Transportation and Storage Agreement for Power
   Generation Project
 url: https://www.calpine.com/calpine-exxonmobil-sign-co2-transportation-and-storage-agreement-for-power-generation-project/
-date: '2025-04-24'
+published: ''
+date_basis: harvested
+harvested: '2025-04-24'
 author: Lindsey Mikeska
 feed_url: http://www.calpine.com/news/feed
 ---

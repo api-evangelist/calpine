@@ -2,7 +2,9 @@
 title: Calpine Announces Execution of Full-Scale CCS Demonstration Project Cost Sharing
   Agreement with the Department of Energy for Sutter Decarbonization Project
 url: https://www.calpine.com/calpine-announces-execution-of-full-scale-ccs-demonstration-project-cost-sharing-agreement-with-the-department-of-energy-for-sutter-decarbonization-project/
-date: '2024-08-07'
+published: ''
+date_basis: harvested
+harvested: '2024-08-07'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

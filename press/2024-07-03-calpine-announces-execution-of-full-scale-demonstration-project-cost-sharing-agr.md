@@ -2,7 +2,9 @@
 title: Calpine Announces Execution of Full-Scale Demonstration Project Cost Sharing
   Agreement With DOE for Baytown Decarbonization Project
 url: https://www.calpine.com/calpine-announces-execution-of-full-scale-demonstration-project-cost-sharing-agreement-with-doe-for-baytown-decarbonization-project/
-date: '2024-07-03'
+published: ''
+date_basis: harvested
+harvested: '2024-07-03'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

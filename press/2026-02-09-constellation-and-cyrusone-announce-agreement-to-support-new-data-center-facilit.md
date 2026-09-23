@@ -2,7 +2,9 @@
 title: Constellation and CyrusOne Announce Agreement to Support New Data Center Facility
   at Freestone Energy Center in Texas
 url: https://www.calpine.com/constellation-and-cyrusone-announce-agreement-to-support-new-data-center-facility-at-freestone-energy-center-in-texas/
-date: '2026-02-09'
+published: ''
+date_basis: harvested
+harvested: '2026-02-09'
 author: Lindsey Mikeska
 feed_url: http://www.calpine.com/news/feed
 ---

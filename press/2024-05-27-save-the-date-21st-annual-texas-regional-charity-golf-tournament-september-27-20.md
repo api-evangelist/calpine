@@ -2,7 +2,9 @@
 title: Save the Date – 21st Annual Texas Regional Charity Golf Tournament – September
   27, 2024
 url: https://www.calpine.com/save-the-date-21st-annual-texas-regional-charity-golf-tournament-september-27-2024/
-date: '2024-05-27'
+published: ''
+date_basis: harvested
+harvested: '2024-05-27'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

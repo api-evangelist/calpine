@@ -2,7 +2,9 @@
 title: Calpine Secures Texas Energy Fund Loan for Pin Oak Creek Peaking Facility in
   Freestone County
 url: https://www.calpine.com/calpine-secures-texas-energy-fund-loan-for-pin-oak-creek-peaking-facility-in-freestone-county/
-date: '2025-10-16'
+published: ''
+date_basis: harvested
+harvested: '2025-10-16'
 author: Lindsey Mikeska
 feed_url: http://www.calpine.com/news/feed
 ---

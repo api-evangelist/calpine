@@ -1,7 +1,9 @@
 ---
 title: Calpine Ramps Up Investment in Texas Grid with Quail Run Acquisition
 url: https://www.calpine.com/calpine-ramps-up-investment-in-texas-grid-with-quail-run-acquisition/
-date: '2024-10-02'
+published: ''
+date_basis: harvested
+harvested: '2024-10-02'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

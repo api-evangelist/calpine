@@ -1,7 +1,9 @@
 ---
 title: Calpine Foundation Donates to Shriners Children’s
 url: https://www.calpine.com/calpine-foundation-donates-to-shriners-childrens/
-date: '2024-07-24'
+published: ''
+date_basis: harvested
+harvested: '2024-07-24'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

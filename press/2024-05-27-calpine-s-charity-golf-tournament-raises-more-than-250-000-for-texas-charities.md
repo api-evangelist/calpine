@@ -1,7 +1,9 @@
 ---
 title: Calpine’s Charity Golf Tournament Raises More Than $250,000 for Texas Charities
 url: https://www.calpine.com/calpines-charity-golf-tournament-raises-more-than-250000-for-texas-charities/
-date: '2024-05-27'
+published: ''
+date_basis: harvested
+harvested: '2024-05-27'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

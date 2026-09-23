@@ -1,7 +1,9 @@
 ---
 title: Constellation’s Deal with Calpine Approved by Federal Energy Regulatory Commission
 url: https://www.calpine.com/constellations-deal-with-calpine-approved-by-federal-energy-regulatory-commission/
-date: '2025-07-24'
+published: ''
+date_basis: harvested
+harvested: '2025-07-24'
 author: Lindsey Mikeska
 feed_url: http://www.calpine.com/news/feed
 ---

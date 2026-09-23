@@ -2,7 +2,9 @@
 title: Calpine’s Baytown CCS Project Selected by the DOE to Advance Carbon Capture
   and Storage Infrastructure
 url: https://www.calpine.com/calpines-baytown-ccs-project-selected-by-the-doe-to-advance-carbon-capture-and-storage-infrastructure/
-date: '2023-12-14'
+published: ''
+date_basis: harvested
+harvested: '2023-12-14'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

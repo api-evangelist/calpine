@@ -1,7 +1,9 @@
 ---
 title: Disaster Relief Food/Supply Distribution at Cimarron Elementary School
 url: https://www.calpine.com/disaster-relief-food-supply-distribution-at-cimarron-elementary-school/
-date: '2024-05-27'
+published: ''
+date_basis: harvested
+harvested: '2024-05-27'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---

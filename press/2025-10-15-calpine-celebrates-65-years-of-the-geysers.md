@@ -1,7 +1,9 @@
 ---
 title: Calpine Celebrates 65 Years of The Geysers
 url: https://www.calpine.com/calpine-celebrates-65-years-of-the-geysers/
-date: '2025-10-15'
+published: ''
+date_basis: harvested
+harvested: '2025-10-15'
 author: Lindsey Mikeska
 feed_url: http://www.calpine.com/news/feed
 ---

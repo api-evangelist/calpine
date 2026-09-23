@@ -1,7 +1,9 @@
 ---
 title: Calpine Steps up Assistance for Texans Impacted by Hurricane Beryl
 url: https://www.calpine.com/calpine-steps-up-assistance-for-texans-impacted-by-hurricane-beryl/
-date: '2024-07-17'
+published: ''
+date_basis: harvested
+harvested: '2024-07-17'
 author: cal_admin
 feed_url: http://www.calpine.com/news/feed
 ---
