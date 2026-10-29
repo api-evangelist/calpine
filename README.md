@@ -1,4 +1,4 @@
-# Calpine (calpine)
+# Calpine
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,44 +64,80 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Calpine Corporation was a major U.S. energy company headquartered in Houston, Texas, and was the largest generator of electricity from natural gas and geothermal energy in the United States. It operated 80 power plants with approximately 26,035 megawatts of generation capacity, including The Geysers, the world's largest geothermal complex. Calpine also operated the Champion Energy retail electricity subsidiary serving deregulated markets. As of January 2026, Constellation Energy completed its acquisition of Calpine for $16.4 billion, making it a business unit of Constellation.
+Calpine Corporation was a major U.S. energy company headquartered in Houston, Texas, and was the largest generator of electricity from natural gas and geothermal energy in the United States. It operated 80 power plants with approximately 26,035 megawatts of generation capacity, including The Geysers, the world's largest geothermal complex. Calpine also operated the Champion Energy retail electricity subsidiary serving deregulated markets. As of January 2026, Constellation Energy completed its acquisition of Calpine for $16.4 billion, making it a business unit of Constellation. Calpine does not publish a public developer API program.
 
-**URL:** [Visit APIs.yml URL](https://raw.githubusercontent.com/api-evangelist/calpine/refs/heads/main/apis.yml)
+**Areas:** Electricity · Energy · Geothermal · Natural Gas · Power Generation · Retail Electricity · Utilities · Fortune 500
 
-## Scope
+## Calpine on APIs.io
 
-- **Type:** Index
-- **Status:** Acquired by Constellation Energy (January 2026)
+Everything profiled for Calpine is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/calpine/](https://apis.io/providers/calpine/)** — or go straight to one of the APIs or properties below.
 
-## Tags
+### Published properties
 
-- Electricity
-- Energy
-- Geothermal
-- Natural Gas
-- Power Generation
-- Retail Electricity
-- Utilities
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Timestamps
+#### Security (1)
 
-- **Created:** 2024-01-01
-- **Modified:** 2026-04-23
+Authentication, trust centre, and vulnerability disclosure.
 
-## APIs
+- [Calpine Domain Security](https://apis.io/security/calpine/calpine-domain-security/)
 
-Calpine does not publish a public developer API program. Energy trading, grid operations, and retail customer integrations are handled through industry-specific protocols (NAESB, ISO/RTO interfaces) and are not exposed via a general-purpose developer portal.
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.calpine.com)
-- [Wikipedia](https://en.wikipedia.org/wiki/Calpine)
-- [Champion Energy](https://www.championenergyservices.com/)
-- [Parent Company (Constellation Energy)](https://www.constellationenergy.com/)
-- [LinkedIn](https://www.linkedin.com/company/calpine)
+- [Blog](https://www.calpine.com/feed/)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.1** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 4.9** — Energy & Utilities
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/calpine/](https://apis.io/providers/calpine/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Calpine: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/calpine/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
